@@ -5,5 +5,7 @@ class B{
         int x = 10001;
 
         System.out.println(x + "#####");
+
+        String y = "Aayush";
     }
 }
