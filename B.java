@@ -6,4 +6,8 @@ class B{
     String y = "Ayush";
 
     System.out.println("##########");
+
+    void process(){
+        System.out.println("##### Hello Sir... #####");
+    }
 }
